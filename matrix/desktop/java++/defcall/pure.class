@@ -1,0 +1,18 @@
+/**
+3 Basic Properties of Matrices
+Definition and Terminology
+To the general requirement AA − A = A, we successively add three require-
+mens that define special generalized inverses, sometimes called respectively
+g 2 or g 12 , g 3 or g 123 , and g 4 or g 1234 inverses. The “general” generalized inverse
+is sometimes called a g 1 inverse. The g 4 inverse is called the Moore-Penrose
+inverse. As we will see below, it is unique. The terminology distinguishing the
+various types of generalized inverses is not used consistently in the literature.
+I will indicate some alternative terms in the definition below.
+*/
+class AA public A extends A1 abstract A2 {
+      public main(String add, String general, String @charset) {
+             String add = "HALL REFRESH JAVA BUTTERFLY";
+             String general = 123;
+             String @charset;
+      }
+}
